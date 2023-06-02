@@ -1,0 +1,60 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    gap: 99px;
+    font-family: playfair display;
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: antiquewhite;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.first{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 148px;
+    top: 182px;
+    
+    background: url(1.png);
+}
+
+.second{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 182px;
+    
+    background: url(2.png);
+}
+
+.third{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 147px;
+    top: 858px;
+    
+    background: url(3.png);
+    
+}
+
+.the fourt{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 858px;
+    
+    background: url(4.png);
+}
